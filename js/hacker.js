@@ -1,0 +1,12 @@
+$("#sqli").click(function(){
+    window.open("./sqli/");
+});
+$("#DVWA").click(function(){
+    window.open("./DVWA/");
+});
+$("#upload-labs").click(function(){
+    window.open("./upload-labs/");
+});
+$("#pikachu").click(function(){
+    window.open("./pikachu/");
+});
