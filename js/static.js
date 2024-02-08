@@ -38,7 +38,7 @@ function background() {
         sty.innerHTML = "body{background-image: url('" + str + "');}";
     }
 }
-setInterval(background, 10000);
+// setInterval(background, 10000);
 var time;
 function music() {
     $.ajax({
