@@ -1,5 +1,5 @@
 body {
-    background: url("./images/background0.jpg") no-repeat center center fixed;
+    background: url("../images/background0.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center;
