@@ -19,6 +19,11 @@ div#title {
     width: 100%;
     background-color: #D9AFD9;
     background-image: linear-gradient(45deg, #D9AFD9 0%, #97D9E1 100%);
+    transform: translate(-50%, -50%);
+    background-size: cover;
+    background-clip: border-box;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
 
