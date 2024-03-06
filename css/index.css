@@ -1,0 +1,20 @@
+body {
+    background: url("./images/background0.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    color: #16edfe;
+}
+
+div#title {
+    position: fixed;
+    top: 26%;
+    text-align: center;
+    font-size: 60px;
+    font-family: AA;
+    width: 100%;
+}
