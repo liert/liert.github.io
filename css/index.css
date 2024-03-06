@@ -17,4 +17,9 @@ div#title {
     font-size: 60px;
     font-family: AA;
     width: 100%;
+    background-color: #D9AFD9;
+    background-image: linear-gradient(45deg, #D9AFD9 0%, #97D9E1 100%);
 }
+
+
+
