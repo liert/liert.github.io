@@ -29,8 +29,6 @@
         <a class="TEXT" href="https://api.vvhan.com/" target="_blank">接口站</a>
         <a class="TEXT" href="https://noisevip.cn/" target="_blank">NV资源网</a>
         <a class="TEXT" href="http://club.lrswl.com/portal.php" target="_blank">CMS</a>
-        <a class="TEXT" href="./zahuo/gj/ctfileGet/button.html" target="_blank">城通网盘解析</a>
-        <a class="TEXT" href="./zahuo/angr/index.html" target="_blank">Angr文档</a>
     </div>
 </div>
 <br>
@@ -57,7 +55,6 @@
 <div>
     <div id="sc" class="table_title">手册<span style="display: none;">(点击展开)</span></div>
     <div class="table">
-        <a class="TEXT" href="./zahuo/x64dbg/index.html" target="_blank">x64dbg用户手册</a>
         <a class="TEXT" href="https://www.php.cn/manual/view/4.html" target="_blank">PHP中文手册</a>
         <a class="TEXT" href="https://www.php.cn/manual/view/14969.html" target="_blank">JavaScript手册</a>
         <a class="TEXT" href="https://www.jq22.com/chm/jquery/index.html" target="_blank">jQuery手册</a>
@@ -71,9 +68,6 @@
     <div class="pdf table">
         <a class="TEXT" href="https://www.book123.info/" target="_blank">无名图书</a>
         <a class="TEXT" href="https://book-searcher.eu.org/" target="_blank">Book Searcher</a>
-        <a class="TEXT" href="./zahuo/pdf/Java工程师成神之路(基础版).pdf" target="_blank">Java工程师成神之路(基础版)</a>
-        <a class="TEXT" href="./zahuo/pdf/强网杯 WriteUp.pdf" target="_blank">强网杯 WriteUp</a>
-        <a class="TEXT" href="./zahuo/pdf/汇编语言-基于x86处理器.pdf" target="_blank">x86汇编</a>
     </div>
 </div>
 <br>
@@ -91,21 +85,15 @@
     <div class="mod table">
         <a class="TEXT" href="https://www.mcnav.net/" target="_blank">MC导航网</a>
         <a class="TEXT" href="http://res.xsky.cloud:8081/" target="_blank">星域互联-资源库</a>
-        <a class="TEXT" href="./zahuo/wdsj/Bukkit/index.html" target="_blank">Bukkit新手教程</a>
         <a class="TEXT" href="https://plgdev.xuogroup.top/#/" target="_blank">实例型Bukkit插件开发教程</a>
-        <a class="TEXT" href="./zahuo/wdsj/BukkitAPI/index.html" target="_blank">BukkitAPI</a>
         <a class="TEXT" href="https://jd.papermc.io/paper/1.12/overview-summary.html" target="_blank">PaperAPI</a>
-        <a class="TEXT" href="./zahuo/wdsj/SX-AttributeAPI/index.html" target="_blank">SX-AttributeAPI</a>
     </div>
 </div>
 <br>
 <div>
     <div id="wdsj" class="table_title">我的世界mod开发<span style="display: none;">(点击展开)</span></div>
     <div class="mod table">
-        <a class="TEXT" href="./zahuo/wdsj/yarn-1.18.1+build.22/index.html" target="_blank">Minecraft1.18.1源码</a>
         <a class="TEXT" href="https://fabricmc.net/wiki/zh_cn:tutorial:callbacks" target="_blank">Fabric Wiki</a>
-        <a class="TEXT" href="./zahuo/wdsj/fabric-api-0.46.6+1.18/index.html" target="_blank">fabric-api-0.46.6+1.18</a>
-        <a class="TEXT" href="./zahuo/wdsj/fabric-loader-0.14.12/index.html" target="_blank">fabric-loader-0.14.12</a>
     </div>
 </div>
 <br>
@@ -115,15 +103,4 @@
         <a class="TEXT" href="https://pvp.qq.com/cp/a20161115tyf/page2.shtml" target="_blank">王者体验服</a>
     </div>
 </div>
-<br>
-<div>
-    <div id="wl" class="table_title">无聊产物<span style="display: none;">(点击展开)</span></div>
-    <div class="table">
-        <a class="TEXT" href="./kebiao/index.php" target="_blank">课表</a>
-        <a class="TEXT" href="./canves.php" target="_blank">画布</a>
-        <a class="TEXT" href="./xuyuan/index.php" target="_blank">许愿墙</a>
-        <a class="TEXT" href="./12.php" target="_blank">日历</a>
-        <a class="TEXT" href="./2012/index.php" target="_blank">2102</a>
-        <a class="TEXT" href="./blog/index.html" target="_blank">博客</a>
-    </div>
-</div>
+
